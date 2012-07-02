@@ -1,0 +1,5 @@
+#Mon Jul 02 15:35:31 CEST 2012
+EXAMPLE_PROJECT_COMPATIBLETS=3.1.0-
+EXAMPLE_PROJECT_ID=com.atollic.truestudio.exampleprojects.STM32F4_Discovery_IO_Toggle
+EXAMPLE_PROJECT_REVISION=1
+eclipse.preferences.version=1
